@@ -100,6 +100,7 @@ public class DatabaseConnection {
             // Test Read
             getUsers(connection); 
 
+
             // // Test Update
             updateUser(connection, "alice.brown@example.com", "Alice Johnson", 32);
 
